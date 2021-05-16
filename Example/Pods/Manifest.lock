@@ -1,0 +1,16 @@
+PODS:
+  - ARRadioButton (0.1.0)
+
+DEPENDENCIES:
+  - ARRadioButton (from `../`)
+
+EXTERNAL SOURCES:
+  ARRadioButton:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ARRadioButton: bfda71e9396cf624516c6c98a071fcbd0c626524
+
+PODFILE CHECKSUM: 1cb8a361673796e90c7759db4e4e15b32e0b57d7
+
+COCOAPODS: 1.10.1

@@ -1,0 +1,6 @@
+framework module ARRadioButton {
+  umbrella header "ARRadioButton-umbrella.h"
+
+  export *
+  module * { export * }
+}
